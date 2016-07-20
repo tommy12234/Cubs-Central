@@ -57,7 +57,7 @@ Starters:
 
 47 Miguel Montero C
 
-<img src= "http://c8.alamy.com/comp/FWFF3C/anaheim-ca-4th-apr-2016-chicago-cubs-catcher-miguel-montero-47-at-FWFF3C.jpg" height=100 width=100>
+<img src= "http://www.csnchicago.com/sites/csnchicago/files/2016/05/13/miguel_montero_nearing_return_from_back_issue_5-13-16_slide.jpg" height=100 width=100>
 
 3 David Ross C
 
@@ -103,4 +103,60 @@ Starters:
 
 <img src= "https://suntimesmedia.files.wordpress.com/2016/03/screen-shot-2016-03-03-at-6-42-09-pm.png?w=640" height=100 width=100>
 
-*Note: All Sources Can Be Found by Clicking on Image
+Image Sources:
+https://camo.githubusercontent.com/31eedf2e24cb6bb26e482d1466ab3dc5e8eb0b13/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d4b42366944624c47425a342f41414141414141414141492f4141414141414141524d4d2f6a516b744c7631376d4f342f73302d632d6b2d6e6f2d6e732f70686f746f2e6a7067
+
+https://camo.githubusercontent.com/b9a2c5941681d964474d43d786ad698541b08ffb/68747470733a2f2f73756e74696d65736d656469612e66696c65732e776f726470726573732e636f6d2f323031362f30332f73637265656e2d73686f742d323031362d30332d30332d61742d362d34322d30392d706d2e706e673f773d363430
+
+http://media.gettyimages.com/photos/kyle-schwarber-of-the-chicago-cubs-bats-during-the-game-against-the-picture-id465550876
+
+http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/sites/2/2016/05/30122411/DEZ27051616Phillies_at_Cubs.jpg
+
+http://thumb.usatodaysportsimages.com/image/thumb/650-510nw/7931036.jpg
+
+https://suntimesmedia.files.wordpress.com/2016/03/screen-shot-2016-03-03-at-6-42-09-pm.png?w=640
+
+http://www.trbimg.com/img-5302bb18/turbine/ct-pedro-strop-turnaround-sullivan-spt-0218-20-001/2048/1406x2048
+
+http://a.fssta.com/content/dam/fsdigital/fscom/mlb/images/2015/10/10/101015-6-MLB-Cubs-Hector-Rondon-OB-PI.vresize.1200.675.high.96.jpg
+
+http://dawindycity.com/files/2016/03/adam-warren-mlb-spring-training-chicago-cubs-arizona-diamondbacks-768x510.jpg
+
+http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/sites/2/2016/01/27082031/DBU15031729_Royals_at_Cubs.jpg
+
+http://thumb.usatodaysportsimages.com/image/thumb/650-510nw/8530647.jpg
+
+https://cdn3.vox-cdn.com/thumbor/UorL90IUx6T9SL4KZFMpOVESpEc=/0x0:1774x1183/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/49269825/usa-today-9230063.0.jpg
+
+http://cdn1.thecomeback.com/theoutsidecorner/wp-content/uploads/sites/19/2016/03/489674898.jpg
+
+https://cdn2.vox-cdn.com/thumbor/Ld-sv1EpzlRwZlUpwJ1cwHVovKQ=/0x180:2000x1513/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/49199331/GettyImages-513927028.0.jpg
+
+http://www.trbimg.com/img-576355d1/turbine/ct-willson-contreras-cubs-sullivan-spt-0617-20160616
+
+https://cbschicago.files.wordpress.com/2015/08/gettyimages-482076148.jpg?w=640&h=360&crop=1
+
+https://www.google.com/search?q=miguel+montero+at+bat+during+cubs+game&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2mOqeioPOAhWI6oMKHcOAA8QQ_AUICCgD#imgrc=CnAIDlFfQwYRJM%3A
+
+http://cbsnews2.cbsistatic.com/hub/i/r/2016/03/28/b1773d74-b5e6-4818-bb01-b9eba5641ff9/thumbnail/620x350/a54e8f80aa46b359fbe41a262ee82e79/cubs513787288.jpg
+
+http://www.dailyherald.com/storyimage/DA/20151006/sports/151009377/EP/1/13/EP-151009377.jpg&updated=201510051146&MaxW=800&maxH=800&noborder
+
+http://wtop.com/wp-content/uploads/2016/02/Cubs-Fowler-Baseball-1851x1254.jpeg
+
+https://cbschicago.files.wordpress.com/2016/04/addison.jpg?w=640&h=360&crop=1
+
+https://lintvwlfi.files.wordpress.com/2016/05/nationals-cubs-baseba_jack.jpg?w=650
+
+http://sports.cbsimg.net/images/visual/whatshot/kris-bryant-33015.jpg
+
+http://www.trbimg.com/img-57163f1f/turbine/ct-cubs-john-lackey-photos-spt-20151204-019/1050/1050x591
+
+http://i.huffpost.com/gen/2793812/images/o-JASON-HAMMEL-facebook.jpg
+
+https://calltothepen.com/files/2014/08/kyle-hendricks-mlb-milwaukee-brewers-chicago-cubs.jpg
+
+https://espngrantland.files.wordpress.com/2015/04/jon-lester-cubs_tri.jpg
+
+https://i.ytimg.com/vi/8HfXIGDl4uI/maxresdefault.jpg
+
