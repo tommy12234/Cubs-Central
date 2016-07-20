@@ -18,13 +18,13 @@ Starters:
 
 17 Kris Bryant 3B <img src= "http://sports.cbsimg.net/images/visual/whatshot/kris-bryant-33015.jpg" height=100 width=100>
 
-44 Anthony Rizzo 1B <img src= "https://upload.wikimedia.org/wikipedia/commons/e/ec/Anthony_Rizzo_2012.jpg" height=100 width=100>
+44 Anthony Rizzo 1B <img src= "http://thumb.usatodaysportsimages.com/image/thumb/650-510nw/7931036.jpg" height=100 width=100>
 
 18 Ben Zobrist 2B <img src= "https://lintvwlfi.files.wordpress.com/2016/05/nationals-cubs-baseba_jack.jpg?w=650" height=100 width=100>
 
 27 Addison Russe SS <img src= "https://cbschicago.files.wordpress.com/2016/04/addison.jpg?w=640&h=360&crop=1ll" height=100 width=100>
 
-24 Dexter Fowler CF <img src= "http://wtop.com/wp-content/uploads/2016/02/Cubs-Fowler-Baseball-1851x1254.jpeg" height=100 width=100>
+24 Dexter Fowler CF <img src= "http://dawindycity.com/files/2016/01/dexter-fowler-mlb-nlcs-new-york-mets-chicago-cubs-1-768x0.jpg" height=100 width=100>
 
 12 Kyle Schwarber LF <img src= "http://www.dailyherald.com/storyimage/DA/20151006/sports/151009377/EP/1/13/EP-151009377.jpg&updated=201510051146&MaxW=800&maxH=800&noborder" height=100 width=100>
 
