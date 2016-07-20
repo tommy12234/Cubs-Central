@@ -1,9 +1,10 @@
 # Cubs-Central
 All the latest Cubs Scores
 
-<img src= "https://lh5.googleusercontent.com/-KB6iDbLGBZ4/AAAAAAAAAAI/AAAAAAAARMM/jQktLv17mO4/s0-c-k-no-ns/photo.jpg" height=300 width=1000>
+<img src= "https://lh5.googleusercontent.com/-KB6iDbLGBZ4/AAAAAAAAAAI/AAAAAAAARMM/jQktLv17mO4/s0-c-k-no-ns/photo.jpg" height=600 width=1000>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://www.youtube.com/watch?v=j0dY6guTpWA" data-icon="octicon-eye" data-style="mega" data-count-href="/ntkme/github-buttons/watchers" data-count-api="/repos/ntkme/github-buttons#subscribers_count" data-count-aria-label="# watchers on GitHub" aria-label="Watch ntkme/github-buttons on GitHub">Scores and Schedule Provided by Google</a>
+
 Starters:
 
 49 Jake Arieta RHP
