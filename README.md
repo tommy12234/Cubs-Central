@@ -1,4 +1,4 @@
-# Cubs-Central
+# Cubs Central
 All the latest Cubs Scores
 
 <img src= "https://lh5.googleusercontent.com/-KB6iDbLGBZ4/AAAAAAAAAAI/AAAAAAAARMM/jQktLv17mO4/s0-c-k-no-ns/photo.jpg" height=600 width=1000>
@@ -102,3 +102,5 @@ Starters:
 37 Travis Wood Reliever
 
 <img src= "https://suntimesmedia.files.wordpress.com/2016/03/screen-shot-2016-03-03-at-6-42-09-pm.png?w=640" height=100 width=100>
+
+*Note: All Sources Can Be Found by Clicking on Image
