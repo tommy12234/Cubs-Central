@@ -24,7 +24,7 @@ Starters:
 
 27 Addison Russe SS <img src= "https://cbschicago.files.wordpress.com/2016/04/addison.jpg?w=640&h=360&crop=1ll" height=100 width=100>
 
-24 Dexter Fowler CF <img src= "http://dawindycity.com/files/2016/01/dexter-fowler-mlb-nlcs-new-york-mets-chicago-cubs-1-768x0.jpg" height=100 width=100>
+24 Dexter Fowler CF <img src= "http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/sites/2/2016/05/30122411/DEZ27051616Phillies_at_Cubs.jpg" height=100 width=100>
 
 12 Kyle Schwarber LF <img src= "http://www.dailyherald.com/storyimage/DA/20151006/sports/151009377/EP/1/13/EP-151009377.jpg&updated=201510051146&MaxW=800&maxH=800&noborder" height=100 width=100>
 
