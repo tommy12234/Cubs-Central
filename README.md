@@ -9,8 +9,7 @@ Starters:
 
 49 Jake Arieta RHP
 
- <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cubs" data-icon="octicon-eye" data-style="mega" data-count-href="/ntkme/github-buttons/watchers" data-count-api="/repos/ntkme/github-buttons#subscribers_count" data-count-aria-label="# watchers on GitHub" aria-label="Watch ntkme/github-buttons on GitHub"><img src="https://i.ytimg.com/vi/8HfXIGDl4uI/maxresdefault.jpg" height=100 width=100></a> 
+<img src="https://i.ytimg.com/vi/8HfXIGDl4uI/maxresdefault.jpg" height=100 width=100></a> 
 
 34 Jon Lester LHP
 
